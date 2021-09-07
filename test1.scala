@@ -1,1 +1,1 @@
-var cenas = 123
+val cenas = 123
