@@ -1,0 +1,1 @@
+var cenas = 123
